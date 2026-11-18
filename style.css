@@ -5,8 +5,11 @@
     font-family: "Poppins", Arial, Helvetica, sans-serif;
 }
 
+.primary {
+  background-color: rgb(255, 255, 255);
+}
+
 main {
   width: 100vw;
   height: 100vh;
-  background-color: aqua;
 }
