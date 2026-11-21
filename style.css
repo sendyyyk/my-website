@@ -253,3 +253,7 @@ footer .footer-items .items section a:hover {
   transition: 0.3s;
   opacity: 100%;
 }
+
+footer .footer-items .items section.media a {
+  gap: 1vw;
+}
