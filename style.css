@@ -236,7 +236,7 @@ footer .footer-items .items section p {
   opacity: 70%;
 }
 
-footer .footer-items .items section p:nth-child(2) {
+footer .footer-items .items section.cp p:nth-child(2) {
   font-size: 1.5vw !important;
 }
 
