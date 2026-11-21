@@ -244,8 +244,8 @@ footer .footer-items .items section.media {
 footer .footer-items .items section a, 
 footer .footer-items .items section a svg {
   display: flex;
-  flex-direction: column;
   justify-content: center;
+  gap: 1vw ;
   opacity: 70%;
 }
 
@@ -254,6 +254,6 @@ footer .footer-items .items section a:hover {
   opacity: 100%;
 }
 
-footer .footer-items .items section.media a {
-  gap: 1vw;
-}
+/* footer .footer-items .items section.media a {
+  gap: 1vw ;
+} */
