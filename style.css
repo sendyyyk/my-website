@@ -245,7 +245,7 @@ footer .footer-items .items section a,
 footer .footer-items .items section a svg {
   display: flex;
   justify-content: center;
-  gap: 1vw;
+  gap: 1.5vw;
   opacity: 70%;
 }
 
