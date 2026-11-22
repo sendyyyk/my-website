@@ -238,6 +238,7 @@ footer .footer-items .items section p {
 
 footer .footer-items .items section.cp p:nth-child(2) {
   font-size: 1.5vw !important;
+  color: brown;
 }
 
 footer .footer-items .items section.media {
